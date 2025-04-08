@@ -112,13 +112,13 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#1A1A1A] py-6 flex flex-col justify-center sm:py-12">
+    <div className="min-h-screen bg-gradient-to-br from-[#1A4D2E] via-[#4F6F52] to-[#1A4D2E] text-white p-4">
       <div className="relative py-3 sm:max-w-6xl sm:mx-auto w-full px-4">
         <div className="relative px-4 py-10 bg-[#262626] shadow-lg sm:rounded-3xl sm:p-20">
           <div className="max-w-5xl mx-auto">
             <div className="divide-y divide-[#4B5563]">
               <div className="py-8 text-base leading-6 space-y-4 text-[#F3F4F6] sm:text-lg sm:leading-7">
-                <h1 className="text-3xl font-bold text-center mb-8 text-[#6B7280]">FC25 Takım Seçici</h1>
+                <h1 className="text-4xl font-bold text-center mb-8 text-green-500">FC25 Takım Seçici</h1>
                 
                 {/* Lig Seçimi */}
                 <div className="mb-4">
