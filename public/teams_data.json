@@ -1,0 +1,5779 @@
+{
+  "teams": [
+    {
+      "id": "liverpool_eng",
+      "name": "Liverpool",
+      "league": "ENG",
+      "overallRating": 5,
+      "stats": {
+        "attack": 4.8,
+        "midfield": 5,
+        "defense": 4.9,
+        "goalkeeper": 4.6
+      },
+      "logo": "/all_logos/Liverpool FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 2016.73852539
+    },
+    {
+      "id": "arsenal_eng",
+      "name": "Arsenal",
+      "league": "ENG",
+      "overallRating": 5.0,
+      "stats": {
+        "attack": 4.8,
+        "midfield": 5.0,
+        "defense": 4.9,
+        "goalkeeper": 4.6
+      },
+      "logo": "/all_logos/Arsenal FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 2001.44189453
+    },
+    {
+      "id": "real_madrid_esp",
+      "name": "Real Madrid",
+      "league": "ESP",
+      "overallRating": 4.8,
+      "stats": {
+        "attack": 4.6,
+        "midfield": 4.8,
+        "defense": 4.7,
+        "goalkeeper": 4.4
+      },
+      "logo": "/all_logos/Real Madrid.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1964.24230957
+    },
+    {
+      "id": "inter_ita",
+      "name": "Inter",
+      "league": "ITA",
+      "overallRating": 4.8,
+      "stats": {
+        "attack": 4.6,
+        "midfield": 4.8,
+        "defense": 4.7,
+        "goalkeeper": 4.4
+      },
+      "logo": "/all_logos/Inter Milan.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1963.85668945
+    },
+    {
+      "id": "paris_sg_fra",
+      "name": "Paris SG",
+      "league": "FRA",
+      "overallRating": 4.7,
+      "stats": {
+        "attack": 4.5,
+        "midfield": 4.7,
+        "defense": 4.6,
+        "goalkeeper": 4.3
+      },
+      "logo": "/all_logos/Paris Saint-Germain.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1958.87329102
+    },
+    {
+      "id": "barcelona_esp",
+      "name": "Barcelona",
+      "league": "ESP",
+      "overallRating": 4.7,
+      "stats": {
+        "attack": 4.5,
+        "midfield": 4.7,
+        "defense": 4.6,
+        "goalkeeper": 4.3
+      },
+      "logo": "/all_logos/FC Barcelona.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1954.88391113
+    },
+    {
+      "id": "bayern_ger",
+      "name": "Bayern",
+      "league": "GER",
+      "overallRating": 4.5,
+      "stats": {
+        "attack": 4.3,
+        "midfield": 4.5,
+        "defense": 4.4,
+        "goalkeeper": 4.1
+      },
+      "logo": "/all_logos/Bayern Munich.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1922.65527344
+    },
+    {
+      "id": "man_city_eng",
+      "name": "Man City",
+      "league": "ENG",
+      "overallRating": 4.5,
+      "stats": {
+        "attack": 4.3,
+        "midfield": 4.5,
+        "defense": 4.4,
+        "goalkeeper": 4.1
+      },
+      "logo": "/all_logos/Manchester City.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1918.70300293
+    },
+    {
+      "id": "leverkusen_ger",
+      "name": "Leverkusen",
+      "league": "GER",
+      "overallRating": 4.3,
+      "stats": {
+        "attack": 4.1,
+        "midfield": 4.3,
+        "defense": 4.2,
+        "goalkeeper": 4.0
+      },
+      "logo": "/all_logos/Bayer 04 Leverkusen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1884.59338379
+    },
+    {
+      "id": "atletico_esp",
+      "name": "Atletico",
+      "league": "ESP",
+      "overallRating": 4.2,
+      "stats": {
+        "attack": 4.0,
+        "midfield": 4.2,
+        "defense": 4.1,
+        "goalkeeper": 3.9
+      },
+      "logo": "/all_logos/Atlético de Madrid.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1865.31323242
+    },
+    {
+      "id": "chelsea_eng",
+      "name": "Chelsea",
+      "league": "ENG",
+      "overallRating": 4.1,
+      "stats": {
+        "attack": 3.9,
+        "midfield": 4.1,
+        "defense": 4.0,
+        "goalkeeper": 3.8
+      },
+      "logo": "/all_logos/Chelsea FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1854.89978027
+    },
+    {
+      "id": "atalanta_ita",
+      "name": "Atalanta",
+      "league": "ITA",
+      "overallRating": 4.1,
+      "stats": {
+        "attack": 3.9,
+        "midfield": 4.1,
+        "defense": 4.0,
+        "goalkeeper": 3.8
+      },
+      "logo": "/all_logos/Atalanta BC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1850.19067383
+    },
+    {
+      "id": "newcastle_eng",
+      "name": "Newcastle",
+      "league": "ENG",
+      "overallRating": 4.0,
+      "stats": {
+        "attack": 3.8,
+        "midfield": 4.0,
+        "defense": 3.9,
+        "goalkeeper": 3.7
+      },
+      "logo": "/all_logos/Newcastle United.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1841.73999023
+    },
+    {
+      "id": "aston_villa_eng",
+      "name": "Aston Villa",
+      "league": "ENG",
+      "overallRating": 4.0,
+      "stats": {
+        "attack": 3.8,
+        "midfield": 4.0,
+        "defense": 3.9,
+        "goalkeeper": 3.7
+      },
+      "logo": "/all_logos/Aston Villa.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1836.74902344
+    },
+    {
+      "id": "napoli_ita",
+      "name": "Napoli",
+      "league": "ITA",
+      "overallRating": 4.0,
+      "stats": {
+        "attack": 3.8,
+        "midfield": 4.0,
+        "defense": 3.9,
+        "goalkeeper": 3.7
+      },
+      "logo": "/all_logos/SSC Napoli.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1836.17895508
+    },
+    {
+      "id": "forest_eng",
+      "name": "Forest",
+      "league": "ENG",
+      "overallRating": 3.8,
+      "stats": {
+        "attack": 3.6,
+        "midfield": 3.8,
+        "defense": 3.7,
+        "goalkeeper": 3.5
+      },
+      "logo": "/all_logos/Nottingham Forest.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1812.42675781
+    },
+    {
+      "id": "bilbao_esp",
+      "name": "Bilbao",
+      "league": "ESP",
+      "overallRating": 3.8,
+      "stats": {
+        "attack": 3.6,
+        "midfield": 3.8,
+        "defense": 3.7,
+        "goalkeeper": 3.5
+      },
+      "logo": "/all_logos/Athletic Bilbao.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1811.43847656
+    },
+    {
+      "id": "juventus_ita",
+      "name": "Juventus",
+      "league": "ITA",
+      "overallRating": 3.8,
+      "stats": {
+        "attack": 3.6,
+        "midfield": 3.8,
+        "defense": 3.7,
+        "goalkeeper": 3.5
+      },
+      "logo": "/all_logos/Juventus FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1807.09472656
+    },
+    {
+      "id": "crystal_palace_eng",
+      "name": "Crystal Palace",
+      "league": "ENG",
+      "overallRating": 3.8,
+      "stats": {
+        "attack": 3.6,
+        "midfield": 3.8,
+        "defense": 3.7,
+        "goalkeeper": 3.5
+      },
+      "logo": "/all_logos/Crystal Palace.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1803.0123291
+    },
+    {
+      "id": "bologna_ita",
+      "name": "Bologna",
+      "league": "ITA",
+      "overallRating": 3.7,
+      "stats": {
+        "attack": 3.5,
+        "midfield": 3.7,
+        "defense": 3.6,
+        "goalkeeper": 3.4
+      },
+      "logo": "/all_logos/Bologna FC 1909.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1791.55981445
+    },
+    {
+      "id": "tottenham_eng",
+      "name": "Tottenham",
+      "league": "ENG",
+      "overallRating": 3.7,
+      "stats": {
+        "attack": 3.5,
+        "midfield": 3.7,
+        "defense": 3.6,
+        "goalkeeper": 3.4
+      },
+      "logo": "/all_logos/Tottenham Hotspur.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1790.03967285
+    },
+    {
+      "id": "roma_ita",
+      "name": "Roma",
+      "league": "ITA",
+      "overallRating": 3.7,
+      "stats": {
+        "attack": 3.5,
+        "midfield": 3.7,
+        "defense": 3.6,
+        "goalkeeper": 3.4
+      },
+      "logo": "/all_logos/AS Roma.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1789.7331543
+    },
+    {
+      "id": "brighton_eng",
+      "name": "Brighton",
+      "league": "ENG",
+      "overallRating": 3.7,
+      "stats": {
+        "attack": 3.5,
+        "midfield": 3.7,
+        "defense": 3.6,
+        "goalkeeper": 3.4
+      },
+      "logo": "/all_logos/Brighton & Hove Albion.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1787.21520996
+    },
+    {
+      "id": "man_united_eng",
+      "name": "Man United",
+      "league": "ENG",
+      "overallRating": 3.7,
+      "stats": {
+        "attack": 3.5,
+        "midfield": 3.7,
+        "defense": 3.6,
+        "goalkeeper": 3.4
+      },
+      "logo": "/all_logos/Manchester United.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1786.93908691
+    },
+    {
+      "id": "fulham_eng",
+      "name": "Fulham",
+      "league": "ENG",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/Fulham FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1780.25415039
+    },
+    {
+      "id": "bournemouth_eng",
+      "name": "Bournemouth",
+      "league": "ENG",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/AFC Bournemouth.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1779.96838379
+    },
+    {
+      "id": "dortmund_ger",
+      "name": "Dortmund",
+      "league": "GER",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/Borussia Dortmund.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1779.86376953
+    },
+    {
+      "id": "sporting_por",
+      "name": "Sporting",
+      "league": "POR",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/Sporting CP.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1779.2409668
+    },
+    {
+      "id": "benfica_por",
+      "name": "Benfica",
+      "league": "POR",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/SL Benfica.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1779.18554688
+    },
+    {
+      "id": "lille_fra",
+      "name": "Lille",
+      "league": "FRA",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/LOSC Lille.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1776.21325684
+    },
+    {
+      "id": "milan_ita",
+      "name": "Milan",
+      "league": "ITA",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/AC Milan.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1773.15161133
+    },
+    {
+      "id": "fiorentina_ita",
+      "name": "Fiorentina",
+      "league": "ITA",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/ACF Fiorentina.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1772.84838867
+    },
+    {
+      "id": "lazio_ita",
+      "name": "Lazio",
+      "league": "ITA",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/SS Lazio.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1772.70837402
+    },
+    {
+      "id": "psv_ned",
+      "name": "PSV",
+      "league": "NED",
+      "overallRating": 3.6,
+      "stats": {
+        "attack": 3.4,
+        "midfield": 3.6,
+        "defense": 3.5,
+        "goalkeeper": 3.3
+      },
+      "logo": "/all_logos/PSV Eindhoven.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1770.08190918
+    },
+    {
+      "id": "villarreal_esp",
+      "name": "Villarreal",
+      "league": "ESP",
+      "overallRating": 3.5,
+      "stats": {
+        "attack": 3.3,
+        "midfield": 3.5,
+        "defense": 3.4,
+        "goalkeeper": 3.2
+      },
+      "logo": "/all_logos/Villarreal CF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1766.67932129
+    },
+    {
+      "id": "brentford_eng",
+      "name": "Brentford",
+      "league": "ENG",
+      "overallRating": 3.5,
+      "stats": {
+        "attack": 3.3,
+        "midfield": 3.5,
+        "defense": 3.4,
+        "goalkeeper": 3.2
+      },
+      "logo": "/all_logos/Brentford FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1763.90112305
+    },
+    {
+      "id": "monaco_fra",
+      "name": "Monaco",
+      "league": "FRA",
+      "overallRating": 3.5,
+      "stats": {
+        "attack": 3.3,
+        "midfield": 3.5,
+        "defense": 3.4,
+        "goalkeeper": 3.2
+      },
+      "logo": "/all_logos/AS Monaco.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1762.38049316
+    },
+    {
+      "id": "feyenoord_ned",
+      "name": "Feyenoord",
+      "league": "NED",
+      "overallRating": 3.4,
+      "stats": {
+        "attack": 3.2,
+        "midfield": 3.4,
+        "defense": 3.3,
+        "goalkeeper": 3.1
+      },
+      "logo": "/all_logos/Feyenoord Rotterdam.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1750.40637207
+    },
+    {
+      "id": "everton_eng",
+      "name": "Everton",
+      "league": "ENG",
+      "overallRating": 3.4,
+      "stats": {
+        "attack": 3.2,
+        "midfield": 3.4,
+        "defense": 3.3,
+        "goalkeeper": 3.1
+      },
+      "logo": "/all_logos/Everton FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1749.1036377
+    },
+    {
+      "id": "frankfurt_ger",
+      "name": "Frankfurt",
+      "league": "GER",
+      "overallRating": 3.4,
+      "stats": {
+        "attack": 3.2,
+        "midfield": 3.4,
+        "defense": 3.3,
+        "goalkeeper": 3.1
+      },
+      "logo": "/all_logos/Eintracht Frankfurt.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1747.68969727
+    },
+    {
+      "id": "lyon_fra",
+      "name": "Lyon",
+      "league": "FRA",
+      "overallRating": 3.4,
+      "stats": {
+        "attack": 3.2,
+        "midfield": 3.4,
+        "defense": 3.3,
+        "goalkeeper": 3.1
+      },
+      "logo": "/all_logos/Olympique Lyon.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1747.43200684
+    },
+    {
+      "id": "betis_esp",
+      "name": "Betis",
+      "league": "ESP",
+      "overallRating": 3.4,
+      "stats": {
+        "attack": 3.2,
+        "midfield": 3.4,
+        "defense": 3.3,
+        "goalkeeper": 3.1
+      },
+      "logo": "/all_logos/Real Betis Balompié.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1745.36621094
+    },
+    {
+      "id": "rb_leipzig_ger",
+      "name": "RB Leipzig",
+      "league": "GER",
+      "overallRating": 3.4,
+      "stats": {
+        "attack": 3.2,
+        "midfield": 3.4,
+        "defense": 3.3,
+        "goalkeeper": 3.1
+      },
+      "logo": "/all_logos/RB Leipzig.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1736.86962891
+    },
+    {
+      "id": "west_ham_eng",
+      "name": "West Ham",
+      "league": "ENG",
+      "overallRating": 3.3,
+      "stats": {
+        "attack": 3.1,
+        "midfield": 3.3,
+        "defense": 3.2,
+        "goalkeeper": 3.0
+      },
+      "logo": "/all_logos/West Ham United.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1731.29223633
+    },
+    {
+      "id": "mainz_ger",
+      "name": "Mainz",
+      "league": "GER",
+      "overallRating": 3.3,
+      "stats": {
+        "attack": 3.1,
+        "midfield": 3.3,
+        "defense": 3.2,
+        "goalkeeper": 3.0
+      },
+      "logo": "/all_logos/1.FSV Mainz 05.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1727.7220459
+    },
+    {
+      "id": "torino_ita",
+      "name": "Torino",
+      "league": "ITA",
+      "overallRating": 3.3,
+      "stats": {
+        "attack": 3.1,
+        "midfield": 3.3,
+        "defense": 3.2,
+        "goalkeeper": 3.0
+      },
+      "logo": "/all_logos/Torino FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1721.42663574
+    },
+    {
+      "id": "marseille_fra",
+      "name": "Marseille",
+      "league": "FRA",
+      "overallRating": 3.3,
+      "stats": {
+        "attack": 3.1,
+        "midfield": 3.3,
+        "defense": 3.2,
+        "goalkeeper": 3.0
+      },
+      "logo": "/all_logos/Olympique Marseille.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1720.07727051
+    },
+    {
+      "id": "brugge_bel",
+      "name": "Brugge",
+      "league": "BEL",
+      "overallRating": 3.2,
+      "stats": {
+        "attack": 3.0,
+        "midfield": 3.2,
+        "defense": 3.1,
+        "goalkeeper": 2.9
+      },
+      "logo": "/all_logos/Club Brugge KV.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1719.90808105
+    },
+    {
+      "id": "stuttgart_ger",
+      "name": "Stuttgart",
+      "league": "GER",
+      "overallRating": 3.2,
+      "stats": {
+        "attack": 3.0,
+        "midfield": 3.2,
+        "defense": 3.1,
+        "goalkeeper": 2.9
+      },
+      "logo": "/all_logos/VfB Stuttgart.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1713.35327148
+    },
+    {
+      "id": "ajax_ned",
+      "name": "Ajax",
+      "league": "NED",
+      "overallRating": 3.2,
+      "stats": {
+        "attack": 3.0,
+        "midfield": 3.2,
+        "defense": 3.1,
+        "goalkeeper": 2.9
+      },
+      "logo": "/all_logos/Ajax Amsterdam.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1709.90649414
+    },
+    {
+      "id": "wolves_eng",
+      "name": "Wolves",
+      "league": "ENG",
+      "overallRating": 3.2,
+      "stats": {
+        "attack": 3.0,
+        "midfield": 3.2,
+        "defense": 3.1,
+        "goalkeeper": 2.9
+      },
+      "logo": "/all_logos/Wolverhampton Wanderers.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1704.4309082
+    },
+    {
+      "id": "galatasaray_turkey",
+      "name": "Galatasaray",
+      "league": "TUR",
+      "overallRating": 4.5,
+      "stats": {
+        "attack": 4.3,
+        "midfield": 4.5,
+        "defense": 4.4,
+        "goalkeeper": 4.3
+      },
+      "logo": "/all_logos/Galatasaray.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1700
+    },
+    {
+      "id": "sociedad_esp",
+      "name": "Sociedad",
+      "league": "ESP",
+      "overallRating": 3.1,
+      "stats": {
+        "attack": 2.9,
+        "midfield": 3.1,
+        "defense": 3.0,
+        "goalkeeper": 2.9
+      },
+      "logo": "/all_logos/Real Sociedad.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1699.47338867
+    },
+    {
+      "id": "strasbourg_fra",
+      "name": "Strasbourg",
+      "league": "FRA",
+      "overallRating": 3.1,
+      "stats": {
+        "attack": 2.9,
+        "midfield": 3.1,
+        "defense": 3.0,
+        "goalkeeper": 2.9
+      },
+      "logo": "/all_logos/RC Strasbourg Alsace.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1697.05688477
+    },
+    {
+      "id": "porto_por",
+      "name": "Porto",
+      "league": "POR",
+      "overallRating": 3.1,
+      "stats": {
+        "attack": 2.9,
+        "midfield": 3.1,
+        "defense": 3.0,
+        "goalkeeper": 2.9
+      },
+      "logo": "/all_logos/FC Porto.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1693.91833496
+    },
+    {
+      "id": "girona_esp",
+      "name": "Girona",
+      "league": "ESP",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Girona FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1687.66491699
+    },
+    {
+      "id": "brest_fra",
+      "name": "Brest",
+      "league": "FRA",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Stade Brestois 29.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1686.5970459
+    },
+    {
+      "id": "nice_fra",
+      "name": "Nice",
+      "league": "FRA",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/OGC Nice.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1685.7097168
+    },
+    {
+      "id": "sevilla_esp",
+      "name": "Sevilla",
+      "league": "ESP",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Sevilla FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1682.59814453
+    },
+    {
+      "id": "celta_esp",
+      "name": "Celta",
+      "league": "ESP",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Celta de Vigo.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1681.55029297
+    },
+    {
+      "id": "freiburg_ger",
+      "name": "Freiburg",
+      "league": "GER",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/SC Freiburg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1680.68383789
+    },
+    {
+      "id": "fenerbahce_turkey",
+      "name": "Fenerbahçe",
+      "league": "TUR",
+      "overallRating": 4.4,
+      "stats": {
+        "attack": 4.2,
+        "midfield": 4.4,
+        "defense": 4.3,
+        "goalkeeper": 4.2
+      },
+      "logo": "/all_logos/Fenerbahce.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1680
+    },
+    {
+      "id": "gladbach_ger",
+      "name": "Gladbach",
+      "league": "GER",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Borussia Mönchengladbach.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1677.96044922
+    },
+    {
+      "id": "slavia_praha_cze",
+      "name": "Slavia Praha",
+      "league": "OTH",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/SK Slavia Prague.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1677.44384766
+    },
+    {
+      "id": "rayo_vallecano_esp",
+      "name": "Rayo Vallecano",
+      "league": "ESP",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Rayo Vallecano.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1676.58288574
+    },
+    {
+      "id": "getafe_esp",
+      "name": "Getafe",
+      "league": "ESP",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Getafe CF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1675.85986328
+    },
+    {
+      "id": "wolfsburg_ger",
+      "name": "Wolfsburg",
+      "league": "GER",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/VfL Wolfsburg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1674.11022949
+    },
+    {
+      "id": "celtic_sco",
+      "name": "Celtic",
+      "league": "OTH",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/Celtic FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1672.79626465
+    },
+    {
+      "id": "lens_fra",
+      "name": "Lens",
+      "league": "FRA",
+      "overallRating": 3.0,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 3.0,
+        "defense": 2.9,
+        "goalkeeper": 2.8
+      },
+      "logo": "/all_logos/RC Lens.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1672.24414062
+    },
+    {
+      "id": "osasuna_esp",
+      "name": "Osasuna",
+      "league": "ESP",
+      "overallRating": 2.9,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 2.9,
+        "defense": 2.8,
+        "goalkeeper": 2.7
+      },
+      "logo": "/all_logos/CA Osasuna.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1669.47692871
+    },
+    {
+      "id": "st_gillis_bel",
+      "name": "St Gillis",
+      "league": "BEL",
+      "overallRating": 2.9,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 2.9,
+        "defense": 2.8,
+        "goalkeeper": 2.7
+      },
+      "logo": "/all_logos/Union Saint-Gilloise.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1668.24255371
+    },
+    {
+      "id": "genoa_ita",
+      "name": "Genoa",
+      "league": "ITA",
+      "overallRating": 2.9,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 2.9,
+        "defense": 2.8,
+        "goalkeeper": 2.7
+      },
+      "logo": "/all_logos/Genoa CFC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1666.28369141
+    },
+    {
+      "id": "mallorca_esp",
+      "name": "Mallorca",
+      "league": "ESP",
+      "overallRating": 2.9,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 2.9,
+        "defense": 2.8,
+        "goalkeeper": 2.7
+      },
+      "logo": "/all_logos/RCD Mallorca.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1665.22351074
+    },
+    {
+      "id": "augsburg_ger",
+      "name": "Augsburg",
+      "league": "GER",
+      "overallRating": 2.9,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 2.9,
+        "defense": 2.8,
+        "goalkeeper": 2.7
+      },
+      "logo": "/all_logos/FC Augsburg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1664.62597656
+    },
+    {
+      "id": "udinese_ita",
+      "name": "Udinese",
+      "league": "ITA",
+      "overallRating": 2.9,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 2.9,
+        "defense": 2.8,
+        "goalkeeper": 2.7
+      },
+      "logo": "/all_logos/Udinese Calcio.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1663.32275391
+    },
+    {
+      "id": "valencia_esp",
+      "name": "Valencia",
+      "league": "ESP",
+      "overallRating": 2.9,
+      "stats": {
+        "attack": 2.8,
+        "midfield": 2.9,
+        "defense": 2.8,
+        "goalkeeper": 2.7
+      },
+      "logo": "/all_logos/Valencia CF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1662.9744873
+    },
+    {
+      "id": "rennes_fra",
+      "name": "Rennes",
+      "league": "FRA",
+      "overallRating": 2.8,
+      "stats": {
+        "attack": 2.7,
+        "midfield": 2.8,
+        "defense": 2.7,
+        "goalkeeper": 2.6
+      },
+      "logo": "/all_logos/Stade Rennais FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1655.84680176
+    },
+    {
+      "id": "braga_por",
+      "name": "Braga",
+      "league": "POR",
+      "overallRating": 2.8,
+      "stats": {
+        "attack": 2.7,
+        "midfield": 2.8,
+        "defense": 2.7,
+        "goalkeeper": 2.6
+      },
+      "logo": "/all_logos/SC Braga.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1655.46704102
+    },
+    {
+      "id": "olympiakos_gre",
+      "name": "Olympiakos",
+      "league": "OTH",
+      "overallRating": 2.8,
+      "stats": {
+        "attack": 2.7,
+        "midfield": 2.8,
+        "defense": 2.7,
+        "goalkeeper": 2.6
+      },
+      "logo": "/all_logos/Olympiacos Piraeus.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1654.40869141
+    },
+    {
+      "id": "genk_bel",
+      "name": "Genk",
+      "league": "BEL",
+      "overallRating": 2.8,
+      "stats": {
+        "attack": 2.7,
+        "midfield": 2.8,
+        "defense": 2.7,
+        "goalkeeper": 2.6
+      },
+      "logo": "/all_logos/KRC Genk.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1651.76965332
+    },
+    {
+      "id": "besiktas_turkey",
+      "name": "Beşiktaş",
+      "league": "TUR",
+      "overallRating": 4.3,
+      "stats": {
+        "attack": 4.1,
+        "midfield": 4.3,
+        "defense": 4.2,
+        "goalkeeper": 4.1
+      },
+      "logo": "/all_logos/Besiktas JK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1650
+    },
+    {
+      "id": "toulouse_fra",
+      "name": "Toulouse",
+      "league": "FRA",
+      "overallRating": 2.8,
+      "stats": {
+        "attack": 2.7,
+        "midfield": 2.8,
+        "defense": 2.7,
+        "goalkeeper": 2.6
+      },
+      "logo": "/all_logos/FC Toulouse.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1648.54858398
+    },
+    {
+      "id": "werder_ger",
+      "name": "Werder",
+      "league": "GER",
+      "overallRating": 2.8,
+      "stats": {
+        "attack": 2.7,
+        "midfield": 2.8,
+        "defense": 2.7,
+        "goalkeeper": 2.6
+      },
+      "logo": "/all_logos/SV Werder Bremen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1647.89978027
+    },
+    {
+      "id": "zenit_rus",
+      "name": "Zenit",
+      "league": "OTH",
+      "overallRating": 2.7,
+      "stats": {
+        "attack": 2.6,
+        "midfield": 2.7,
+        "defense": 2.6,
+        "goalkeeper": 2.5
+      },
+      "logo": "/all_logos/Zenit St. Petersburg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1635.76379395
+    },
+    {
+      "id": "espanyol_esp",
+      "name": "Espanyol",
+      "league": "ESP",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/RCD Espanyol Barcelona.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1622.0279541
+    },
+    {
+      "id": "alkmaar_ned",
+      "name": "Alkmaar",
+      "league": "NED",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/AZ Alkmaar.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1620.34790039
+    },
+    {
+      "id": "rangers_sco",
+      "name": "Rangers",
+      "league": "OTH",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/Rangers FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1619.42297363
+    },
+    {
+      "id": "union_berlin_ger",
+      "name": "Union Berlin",
+      "league": "GER",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/1.FC Union Berlin.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1618.13037109
+    },
+    {
+      "id": "crvena_zvezda_srb",
+      "name": "Crvena Zvezda",
+      "league": "OTH",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/Red Star Belgrade.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1617.5970459
+    },
+    {
+      "id": "sparta_praha_cze",
+      "name": "Sparta Praha",
+      "league": "OTH",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/AC Sparta Prague.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1616.01867676
+    },
+    {
+      "id": "auxerre_fra",
+      "name": "Auxerre",
+      "league": "FRA",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/AJ Auxerre.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1615.7286377
+    },
+    {
+      "id": "hoffenheim_ger",
+      "name": "Hoffenheim",
+      "league": "GER",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/TSG 1899 Hoffenheim.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1614.92785645
+    },
+    {
+      "id": "cagliari_ita",
+      "name": "Cagliari",
+      "league": "ITA",
+      "overallRating": 2.6,
+      "stats": {
+        "attack": 2.5,
+        "midfield": 2.6,
+        "defense": 2.5,
+        "goalkeeper": 2.4
+      },
+      "logo": "/all_logos/Cagliari Calcio.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1609.34753418
+    },
+    {
+      "id": "viktoria_plzen_cze",
+      "name": "Viktoria Plzen",
+      "league": "OTH",
+      "overallRating": 2.5,
+      "stats": {
+        "attack": 2.4,
+        "midfield": 2.5,
+        "defense": 2.5,
+        "goalkeeper": 2.3
+      },
+      "logo": "/all_logos/FC Viktoria Plzen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1605.81005859
+    },
+    {
+      "id": "verona_ita",
+      "name": "Verona",
+      "league": "ITA",
+      "overallRating": 2.5,
+      "stats": {
+        "attack": 2.4,
+        "midfield": 2.5,
+        "defense": 2.5,
+        "goalkeeper": 2.3
+      },
+      "logo": "/all_logos/Hellas Verona.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1604.6784668
+    },
+    {
+      "id": "como_ita",
+      "name": "Como",
+      "league": "ITA",
+      "overallRating": 2.5,
+      "stats": {
+        "attack": 2.4,
+        "midfield": 2.5,
+        "defense": 2.5,
+        "goalkeeper": 2.3
+      },
+      "logo": "/all_logos/Como 1907.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1597.76452637
+    },
+    {
+      "id": "ipswich_eng",
+      "name": "Ipswich",
+      "league": "ENG",
+      "overallRating": 2.5,
+      "stats": {
+        "attack": 2.4,
+        "midfield": 2.5,
+        "defense": 2.5,
+        "goalkeeper": 2.3
+      },
+      "logo": "/all_logos/Ipswich Town.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1596.25671387
+    },
+    {
+      "id": "las_palmas_esp",
+      "name": "Las Palmas",
+      "league": "ESP",
+      "overallRating": 2.5,
+      "stats": {
+        "attack": 2.4,
+        "midfield": 2.5,
+        "defense": 2.5,
+        "goalkeeper": 2.3
+      },
+      "logo": "/all_logos/UD Las Palmas.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1595.75622559
+    },
+    {
+      "id": "fc_krasnodar_rus",
+      "name": "FC Krasnodar",
+      "league": "OTH",
+      "overallRating": 2.5,
+      "stats": {
+        "attack": 2.4,
+        "midfield": 2.5,
+        "defense": 2.5,
+        "goalkeeper": 2.3
+      },
+      "logo": "/all_logos/FC Krasnodar.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1595.28381348
+    },
+    {
+      "id": "anderlecht_bel",
+      "name": "Anderlecht",
+      "league": "BEL",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/RSC Anderlecht.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1591.80175781
+    },
+    {
+      "id": "leicester_eng",
+      "name": "Leicester",
+      "league": "ENG",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/Leicester City.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1590.21643066
+    },
+    {
+      "id": "twente_ned",
+      "name": "Twente",
+      "league": "NED",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/Twente Enschede FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1587.62719727
+    },
+    {
+      "id": "empoli_ita",
+      "name": "Empoli",
+      "league": "ITA",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/FC Empoli.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1585.79821777
+    },
+    {
+      "id": "reims_fra",
+      "name": "Reims",
+      "league": "FRA",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/Stade Reims.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1585.71630859
+    },
+    {
+      "id": "leganes_esp",
+      "name": "Leganes",
+      "league": "ESP",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/CD Leganés.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1583.29748535
+    },
+    {
+      "id": "spartak_moskva_rus",
+      "name": "Spartak Moskva",
+      "league": "OTH",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/Spartak Moscow.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1582.66723633
+    },
+    {
+      "id": "fc_kobenhavn_den",
+      "name": "FC Kobenhavn",
+      "league": "OTH",
+      "overallRating": 2.4,
+      "stats": {
+        "attack": 2.3,
+        "midfield": 2.4,
+        "defense": 2.4,
+        "goalkeeper": 2.2
+      },
+      "logo": "/all_logos/FC Copenhagen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1578.79443359
+    },
+    {
+      "id": "lecce_ita",
+      "name": "Lecce",
+      "league": "ITA",
+      "overallRating": 2.3,
+      "stats": {
+        "attack": 2.2,
+        "midfield": 2.3,
+        "defense": 2.3,
+        "goalkeeper": 2.1
+      },
+      "logo": "/all_logos/US Lecce.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1574.3260498
+    },
+    {
+      "id": "parma_ita",
+      "name": "Parma",
+      "league": "ITA",
+      "overallRating": 2.3,
+      "stats": {
+        "attack": 2.2,
+        "midfield": 2.3,
+        "defense": 2.3,
+        "goalkeeper": 2.1
+      },
+      "logo": "/all_logos/Parma Calcio 1913.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1570.69042969
+    },
+    {
+      "id": "utrecht_ned",
+      "name": "Utrecht",
+      "league": "NED",
+      "overallRating": 2.3,
+      "stats": {
+        "attack": 2.2,
+        "midfield": 2.3,
+        "defense": 2.3,
+        "goalkeeper": 2.1
+      },
+      "logo": "/all_logos/FC Utrecht.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1568.69372559
+    },
+    {
+      "id": "midtjylland_den",
+      "name": "Midtjylland",
+      "league": "OTH",
+      "overallRating": 2.3,
+      "stats": {
+        "attack": 2.2,
+        "midfield": 2.3,
+        "defense": 2.3,
+        "goalkeeper": 2.1
+      },
+      "logo": "/all_logos/FC Midtjylland.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1567.5802002
+    },
+    {
+      "id": "sturm_graz_aut",
+      "name": "Sturm Graz",
+      "league": "OTH",
+      "overallRating": 2.3,
+      "stats": {
+        "attack": 2.2,
+        "midfield": 2.3,
+        "defense": 2.3,
+        "goalkeeper": 2.1
+      },
+      "logo": "/all_logos/SK Sturm Graz.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1566.10681152
+    },
+    {
+      "id": "salzburg_aut",
+      "name": "Salzburg",
+      "league": "OTH",
+      "overallRating": 2.3,
+      "stats": {
+        "attack": 2.2,
+        "midfield": 2.3,
+        "defense": 2.3,
+        "goalkeeper": 2.1
+      },
+      "logo": "/all_logos/Red Bull Salzburg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1565.6015625
+    },
+    {
+      "id": "nantes_fra",
+      "name": "Nantes",
+      "league": "FRA",
+      "overallRating": 2.3,
+      "stats": {
+        "attack": 2.2,
+        "midfield": 2.3,
+        "defense": 2.3,
+        "goalkeeper": 2.1
+      },
+      "logo": "/all_logos/FC Nantes.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1560.26257324
+    },
+    {
+      "id": "aek_gre",
+      "name": "AEK",
+      "league": "OTH",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/AEK Athens.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1557.37634277
+    },
+    {
+      "id": "dynamo_moskva_rus",
+      "name": "Dynamo Moskva",
+      "league": "OTH",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/Dynamo Moscow.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1556.85803223
+    },
+    {
+      "id": "heidenheim_ger",
+      "name": "Heidenheim",
+      "league": "GER",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/1.FC Heidenheim 1846.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1556.80517578
+    },
+    {
+      "id": "venezia_ita",
+      "name": "Venezia",
+      "league": "ITA",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/Venezia FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1555.95703125
+    },
+    {
+      "id": "bochum_ger",
+      "name": "Bochum",
+      "league": "GER",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/VfL Bochum.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1555.74304199
+    },
+    {
+      "id": "shakhtar_ukr",
+      "name": "Shakhtar",
+      "league": "OTH",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/Shakhtar Donetsk.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1555.57458496
+    },
+    {
+      "id": "monza_ita",
+      "name": "Monza",
+      "league": "ITA",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/AC Monza.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1554.79052734
+    },
+    {
+      "id": "cska_moskva_rus",
+      "name": "CSKA Moskva",
+      "league": "OTH",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/CSKA Moscow.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1552.62194824
+    },
+    {
+      "id": "gent_bel",
+      "name": "Gent",
+      "league": "BEL",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/KAA Gent.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1551.04418945
+    },
+    {
+      "id": "southampton_eng",
+      "name": "Southampton",
+      "league": "ENG",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/Southampton FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1549.78637695
+    },
+    {
+      "id": "antwerp_bel",
+      "name": "Antwerp",
+      "league": "BEL",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/Royal Antwerp FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1548.99304199
+    },
+    {
+      "id": "brondby_den",
+      "name": "Brondby",
+      "league": "OTH",
+      "overallRating": 2.2,
+      "stats": {
+        "attack": 2.1,
+        "midfield": 2.2,
+        "defense": 2.2,
+        "goalkeeper": 2.0
+      },
+      "logo": "/all_logos/Bröndby IF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1546.05578613
+    },
+    {
+      "id": "rakow_pol",
+      "name": "Rakow",
+      "league": "OTH",
+      "overallRating": 2.1,
+      "stats": {
+        "attack": 2.0,
+        "midfield": 2.1,
+        "defense": 2.1,
+        "goalkeeper": 1.9
+      },
+      "logo": "/all_logos/Raków Częstochowa.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1541.39025879
+    },
+    {
+      "id": "malmoe_swe",
+      "name": "Malmoe",
+      "league": "OTH",
+      "overallRating": 2.1,
+      "stats": {
+        "attack": 2.0,
+        "midfield": 2.1,
+        "defense": 2.1,
+        "goalkeeper": 1.9
+      },
+      "logo": "/all_logos/Malmö FF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1541.2401123
+    },
+    {
+      "id": "paok_gre",
+      "name": "PAOK",
+      "league": "OTH",
+      "overallRating": 2.1,
+      "stats": {
+        "attack": 2.0,
+        "midfield": 2.1,
+        "defense": 2.1,
+        "goalkeeper": 1.9
+      },
+      "logo": "/all_logos/PAOK Thessaloniki.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1538.04638672
+    },
+    {
+      "id": "lok_moskva_rus",
+      "name": "Lok Moskva",
+      "league": "OTH",
+      "overallRating": 2.1,
+      "stats": {
+        "attack": 2.0,
+        "midfield": 2.1,
+        "defense": 2.1,
+        "goalkeeper": 1.9
+      },
+      "logo": "/all_logos/Lokomotiv Moscow.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1537.49072266
+    },
+    {
+      "id": "montpellier_fra",
+      "name": "Montpellier",
+      "league": "FRA",
+      "overallRating": 2.1,
+      "stats": {
+        "attack": 2.0,
+        "midfield": 2.1,
+        "defense": 2.1,
+        "goalkeeper": 1.9
+      },
+      "logo": "/all_logos/Montpellier HSC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1532.26391602
+    },
+    {
+      "id": "dinamo_zagreb_cro",
+      "name": "Dinamo Zagreb",
+      "league": "OTH",
+      "overallRating": 2.1,
+      "stats": {
+        "attack": 2.0,
+        "midfield": 2.1,
+        "defense": 2.1,
+        "goalkeeper": 1.9
+      },
+      "logo": "/all_logos/GNK Dinamo Zagreb.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1529.31738281
+    },
+    {
+      "id": "go_ahead_eagles_ned",
+      "name": "Go Ahead Eagles",
+      "league": "NED",
+      "overallRating": 2.1,
+      "stats": {
+        "attack": 2.0,
+        "midfield": 2.1,
+        "defense": 2.1,
+        "goalkeeper": 1.9
+      },
+      "logo": "/all_logos/Go Ahead Eagles.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1528.35437012
+    },
+    {
+      "id": "steaua_rom",
+      "name": "Steaua",
+      "league": "OTH",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/FCSB.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1527.82836914
+    },
+    {
+      "id": "nordsjaelland_den",
+      "name": "Nordsjaelland",
+      "league": "OTH",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/FC Nordsjaelland.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1525.12438965
+    },
+    {
+      "id": "valladolid_esp",
+      "name": "Valladolid",
+      "league": "ESP",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/Real Valladolid CF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1523.44042969
+    },
+    {
+      "id": "banik_ostrava_cze",
+      "name": "Banik Ostrava",
+      "league": "OTH",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/FC Banik Ostrava.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1519.83447266
+    },
+    {
+      "id": "holstein_ger",
+      "name": "Holstein",
+      "league": "GER",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/Holstein Kiel.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1519.37670898
+    },
+    {
+      "id": "aarhus_den",
+      "name": "Aarhus",
+      "league": "OTH",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/Aarhus GF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1518.109375
+    },
+    {
+      "id": "le_havre_fra",
+      "name": "Le Havre",
+      "league": "FRA",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/Le Havre AC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1517.53491211
+    },
+    {
+      "id": "panathinaikos_gre",
+      "name": "Panathinaikos",
+      "league": "OTH",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/Panathinaikos FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1517.39465332
+    },
+    {
+      "id": "jagiellonia_pol",
+      "name": "Jagiellonia",
+      "league": "OTH",
+      "overallRating": 2.0,
+      "stats": {
+        "attack": 1.9,
+        "midfield": 2.0,
+        "defense": 2.0,
+        "goalkeeper": 1.8
+      },
+      "logo": "/all_logos/Jagiellonia Bialystok.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1514.58325195
+    },
+    {
+      "id": "dynamo_kyiv_ukr",
+      "name": "Dynamo Kyiv",
+      "league": "OTH",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Dynamo Kyiv.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1509.94421387
+    },
+    {
+      "id": "elfsborg_swe",
+      "name": "Elfsborg",
+      "league": "OTH",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/IF Elfsborg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1508.1529541
+    },
+    {
+      "id": "famalicao_por",
+      "name": "Famalicao",
+      "league": "POR",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/FC Famalicão.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1506.70117188
+    },
+    {
+      "id": "angers_fra",
+      "name": "Angers",
+      "league": "FRA",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Angers SCO.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1506.44311523
+    },
+    {
+      "id": "legia_pol",
+      "name": "Legia",
+      "league": "OTH",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Legia Warszawa.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1505.01855469
+    },
+    {
+      "id": "lech_pol",
+      "name": "Lech",
+      "league": "OTH",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Lech Poznan.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1504.69714355
+    },
+    {
+      "id": "young_boys_sui",
+      "name": "Young Boys",
+      "league": "OTH",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/BSC Young Boys.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1500.76525879
+    },
+    {
+      "id": "austria_wien_aut",
+      "name": "Austria Wien",
+      "league": "OTH",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Austria Vienna.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1499.24121094
+    },
+    {
+      "id": "mechelen_bel",
+      "name": "Mechelen",
+      "league": "BEL",
+      "overallRating": 1.9,
+      "stats": {
+        "attack": 1.8,
+        "midfield": 1.9,
+        "defense": 1.9,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/KV Mechelen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1497.43518066
+    },
+    {
+      "id": "hammarby_swe",
+      "name": "Hammarby",
+      "league": "OTH",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Hammarby IF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1495.67602539
+    },
+    {
+      "id": "saint-etienne_fra",
+      "name": "Saint-Etienne",
+      "league": "FRA",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/AS Saint-Étienne.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1493.31005859
+    },
+    {
+      "id": "razgrad_bul",
+      "name": "Razgrad",
+      "league": "OTH",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Ludogorets Razgrad.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1491.95446777
+    },
+    {
+      "id": "depor_esp",
+      "name": "Depor",
+      "league": "ESP",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Deportivo Alavés.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1491.00427246
+    },
+    {
+      "id": "nijmegen_ned",
+      "name": "Nijmegen",
+      "league": "NED",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/NEC Nijmegen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1490.50927734
+    },
+    {
+      "id": "brann_nor",
+      "name": "Brann",
+      "league": "OTH",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/SK Brann.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1490.2746582
+    },
+    {
+      "id": "cercle_brugge_bel",
+      "name": "Cercle Brugge",
+      "league": "BEL",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Cercle Brugge.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1483.05810547
+    },
+    {
+      "id": "pogon_pol",
+      "name": "Pogon",
+      "league": "OTH",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Pogon Szczecin.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1482.29138184
+    },
+    {
+      "id": "rostov_rus",
+      "name": "Rostov",
+      "league": "OTH",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/FC Rostov.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1481.48474121
+    },
+    {
+      "id": "servette_sui",
+      "name": "Servette",
+      "league": "OTH",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Servette FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1481.24633789
+    },
+    {
+      "id": "djurgarden_swe",
+      "name": "Djurgarden",
+      "league": "OTH",
+      "overallRating": 1.8,
+      "stats": {
+        "attack": 1.7,
+        "midfield": 1.8,
+        "defense": 1.8,
+        "goalkeeper": 1.7
+      },
+      "logo": "/all_logos/Djurgårdens IF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1480.53759766
+    },
+    {
+      "id": "charleroi_bel",
+      "name": "Charleroi",
+      "league": "BEL",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/R Charleroi SC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1479.32348633
+    },
+    {
+      "id": "randers_den",
+      "name": "Randers",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Randers FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1474.66784668
+    },
+    {
+      "id": "leuven_bel",
+      "name": "Leuven",
+      "league": "BEL",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Oud-Heverlee Leuven.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1474.12536621
+    },
+    {
+      "id": "arouca_por",
+      "name": "Arouca",
+      "league": "POR",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/FC Arouca.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1472.77563477
+    },
+    {
+      "id": "casa_pia_por",
+      "name": "Casa Pia",
+      "league": "POR",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Casa Pia AC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1472.70129395
+    },
+    {
+      "id": "molde_nor",
+      "name": "Molde",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Molde FK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1472.3137207
+    },
+    {
+      "id": "viking_nor",
+      "name": "Viking",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Viking FK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1471.05200195
+    },
+    {
+      "id": "cfr_cluj_rom",
+      "name": "CFR Cluj",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/CFR Cluj.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1471.03479004
+    },
+    {
+      "id": "rosenborg_nor",
+      "name": "Rosenborg",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Rosenborg BK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1469.61584473
+    },
+    {
+      "id": "sparta_rotterdam_ned",
+      "name": "Sparta Rotterdam",
+      "league": "NED",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Sparta Rotterdam.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1468.39672852
+    },
+    {
+      "id": "basel_sui",
+      "name": "Basel",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/FC Basel 1893.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1467.63671875
+    },
+    {
+      "id": "ferencvaros_hun",
+      "name": "Ferencvaros",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/Ferencvárosi TC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1466.71166992
+    },
+    {
+      "id": "hajduk_cro",
+      "name": "Hajduk",
+      "league": "OTH",
+      "overallRating": 1.7,
+      "stats": {
+        "attack": 1.6,
+        "midfield": 1.7,
+        "defense": 1.7,
+        "goalkeeper": 1.6
+      },
+      "logo": "/all_logos/HNK Hajduk Split.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1464.06323242
+    },
+    {
+      "id": "rijeka_cro",
+      "name": "Rijeka",
+      "league": "OTH",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/HNK Rijeka.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1463.39819336
+    },
+    {
+      "id": "moreirense_por",
+      "name": "Moreirense",
+      "league": "POR",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Moreirense FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1463.2590332
+    },
+    {
+      "id": "rapid_wien_aut",
+      "name": "Rapid Wien",
+      "league": "OTH",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Rapid Vienna.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1460.63146973
+    },
+    {
+      "id": "st_truiden_bel",
+      "name": "St Truiden",
+      "league": "BEL",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Sint-Truidense VV.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1460.23474121
+    },
+    {
+      "id": "santa_clara_por",
+      "name": "Santa Clara",
+      "league": "POR",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/CD Santa Clara.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1459.1138916
+    },
+    {
+      "id": "trabzonspor_tur",
+      "name": "Trabzonspor",
+      "league": "TUR",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Trabzonspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1458.0513916
+    },
+    {
+      "id": "rio_ave_por",
+      "name": "Rio Ave",
+      "league": "POR",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Rio Ave FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1454.73718262
+    },
+    {
+      "id": "standard_bel",
+      "name": "Standard",
+      "league": "BEL",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Standard Liège.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1452.22521973
+    },
+    {
+      "id": "bueyueksehir_tur",
+      "name": "Bueyueksehir",
+      "league": "TUR",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Basaksehir FK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1449.55834961
+    },
+    {
+      "id": "estoril_por",
+      "name": "Estoril",
+      "league": "POR",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/GD Estoril Praia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1449.45581055
+    },
+    {
+      "id": "westerlo_bel",
+      "name": "Westerlo",
+      "league": "BEL",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/KVC Westerlo.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1449.37683105
+    },
+    {
+      "id": "silkeborg_den",
+      "name": "Silkeborg",
+      "league": "OTH",
+      "overallRating": 1.6,
+      "stats": {
+        "attack": 1.5,
+        "midfield": 1.6,
+        "defense": 1.6,
+        "goalkeeper": 1.5
+      },
+      "logo": "/all_logos/Silkeborg IF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1449.23937988
+    },
+    {
+      "id": "viborg_den",
+      "name": "Viborg",
+      "league": "OTH",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/Viborg FF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1444.35876465
+    },
+    {
+      "id": "rubin_kazan_rus",
+      "name": "Rubin Kazan",
+      "league": "OTH",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/Rubin Kazan.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1443.58105469
+    },
+    {
+      "id": "wolfsberg_aut",
+      "name": "Wolfsberg",
+      "league": "OTH",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/Wolfsberger AC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1442.67553711
+    },
+    {
+      "id": "craiova_rom",
+      "name": "Craiova",
+      "league": "OTH",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/CS Universitatea Craiova.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1441.54260254
+    },
+    {
+      "id": "aik_swe",
+      "name": "AIK",
+      "league": "OTH",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/AIK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1439.01306152
+    },
+    {
+      "id": "nacional_por",
+      "name": "Nacional",
+      "league": "POR",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/CD Nacional.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1438.25219727
+    },
+    {
+      "id": "heerenveen_ned",
+      "name": "Heerenveen",
+      "league": "NED",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/SC Heerenveen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1438.16223145
+    },
+    {
+      "id": "zwolle_ned",
+      "name": "Zwolle",
+      "league": "NED",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/PEC Zwolle.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1437.41247559
+    },
+    {
+      "id": "gornik_pol",
+      "name": "Gornik",
+      "league": "OTH",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/Górnik Zabrze.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1435.54992676
+    },
+    {
+      "id": "aris_gre",
+      "name": "Aris",
+      "league": "OTH",
+      "overallRating": 1.5,
+      "stats": {
+        "attack": 1.4,
+        "midfield": 1.5,
+        "defense": 1.5,
+        "goalkeeper": 1.4
+      },
+      "logo": "/all_logos/Aris Thessaloniki.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1434.62109375
+    },
+    {
+      "id": "kasimpasa_tur",
+      "name": "Kasimpasa",
+      "league": "TUR",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/Kasimpasa.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1430.70739746
+    },
+    {
+      "id": "slovan_liberec_cze",
+      "name": "Slovan Liberec",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/FC Slovan Liberec.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1426.30578613
+    },
+    {
+      "id": "lask_aut",
+      "name": "LASK",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/LASK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1425.76196289
+    },
+    {
+      "id": "haecken_swe",
+      "name": "Haecken",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/BK Häcken.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1425.1796875
+    },
+    {
+      "id": "mjaellby_swe",
+      "name": "Mjaellby",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/Mjällby AIF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1425.01257324
+    },
+    {
+      "id": "samsunspor_tur",
+      "name": "Samsunspor",
+      "league": "TUR",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/Samsunspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1424.55737305
+    },
+    {
+      "id": "cracovia_pol",
+      "name": "Cracovia",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/Cracovia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1424.18334961
+    },
+    {
+      "id": "jablonec_cze",
+      "name": "Jablonec",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/FK Jablonec.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1423.23937988
+    },
+    {
+      "id": "gil_vicente_por",
+      "name": "Gil Vicente",
+      "league": "POR",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/Gil Vicente FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1423.14501953
+    },
+    {
+      "id": "luzern_sui",
+      "name": "Luzern",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/FC Luzern.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1418.45324707
+    },
+    {
+      "id": "zuerich_sui",
+      "name": "Zuerich",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/FC Zürich.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1418.10876465
+    },
+    {
+      "id": "lugano_sui",
+      "name": "Lugano",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/FC Lugano.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1417.48718262
+    },
+    {
+      "id": "puskas_akademia_hun",
+      "name": "Puskas Akademia",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/Puskás Akadémia FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1416.4095459
+    },
+    {
+      "id": "hradec_kralove_cze",
+      "name": "Hradec Kralove",
+      "league": "OTH",
+      "overallRating": 1.4,
+      "stats": {
+        "attack": 1.3,
+        "midfield": 1.4,
+        "defense": 1.4,
+        "goalkeeper": 1.3
+      },
+      "logo": "/all_logos/FC Hradec Kralove.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1416.1895752
+    },
+    {
+      "id": "heracles_ned",
+      "name": "Heracles",
+      "league": "NED",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/Heracles Almelo.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1415.08691406
+    },
+    {
+      "id": "piast_gliwice_pol",
+      "name": "Piast Gliwice",
+      "league": "OTH",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/Piast Gliwice.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1411.39733887
+    },
+    {
+      "id": "hibernian_sco",
+      "name": "Hibernian",
+      "league": "OTH",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/Hibernian FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1408.42675781
+    },
+    {
+      "id": "sittard_ned",
+      "name": "Sittard",
+      "league": "NED",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/Fortuna Sittard.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1406.53833008
+    },
+    {
+      "id": "hearts_sco",
+      "name": "Hearts",
+      "league": "OTH",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/Heart of Midlothian FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1405.78796387
+    },
+    {
+      "id": "stgallen_sui",
+      "name": "StGallen",
+      "league": "OTH",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/FC St. Gallen 1879.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1402.48132324
+    },
+    {
+      "id": "sigma_olomouc_cze",
+      "name": "Sigma Olomouc",
+      "league": "OTH",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/SK Sigma Olomouc.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1400.70837402
+    },
+    {
+      "id": "mlada_boleslav_cze",
+      "name": "Mlada Boleslav",
+      "league": "OTH",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/FK Mlada Boleslav.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1400.24926758
+    },
+    {
+      "id": "groningen_ned",
+      "name": "Groningen",
+      "league": "NED",
+      "overallRating": 1.3,
+      "stats": {
+        "attack": 1.2,
+        "midfield": 1.3,
+        "defense": 1.3,
+        "goalkeeper": 1.2
+      },
+      "logo": "/all_logos/FC Groningen.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1400.02062988
+    },
+    {
+      "id": "fredrikstad_nor",
+      "name": "Fredrikstad",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Fredrikstad FK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1395.50817871
+    },
+    {
+      "id": "pau_fra",
+      "name": "Pau",
+      "league": "FRA",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/FC St. Pauli.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1393.46850586
+    },
+    {
+      "id": "kryliya_sovetov_rus",
+      "name": "Kryliya Sovetov",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Krylya Sovetov Samara.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1393.12036133
+    },
+    {
+      "id": "gaziantep_fk_tur",
+      "name": "Gaziantep FK",
+      "league": "TUR",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Gaziantep FK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1390.7833252
+    },
+    {
+      "id": "sarpsborg_nor",
+      "name": "Sarpsborg",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Sarpsborg 08 FF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1389.13061523
+    },
+    {
+      "id": "alanyaspor_tur",
+      "name": "Alanyaspor",
+      "league": "TUR",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Alanyaspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1389.10302734
+    },
+    {
+      "id": "tromso_nor",
+      "name": "Tromso",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Tromsø IL.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1389.06335449
+    },
+    {
+      "id": "eyupspor_tur",
+      "name": "Eyupspor",
+      "league": "TUR",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Eyüpspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1388.73254395
+    },
+    {
+      "id": "konyaspor_tur",
+      "name": "Konyaspor",
+      "league": "TUR",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Konyaspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1388.71240234
+    },
+    {
+      "id": "terek_grozny_rus",
+      "name": "Terek Grozny",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Akhmat Grozny.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1387.53344727
+    },
+    {
+      "id": "rapid_bucuresti_rom",
+      "name": "Rapid Bucuresti",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/FC Rapid 1923.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1386.99267578
+    },
+    {
+      "id": "paksi_hun",
+      "name": "Paksi",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/Paksi FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1386.33764648
+    },
+    {
+      "id": "lausanne_sui",
+      "name": "Lausanne",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/FC Lausanne-Sport.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1386.20397949
+    },
+    {
+      "id": "slask_pol",
+      "name": "Slask",
+      "league": "OTH",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/LASK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1386.05688477
+    },
+    {
+      "id": "dender_bel",
+      "name": "Dender",
+      "league": "BEL",
+      "overallRating": 1.2,
+      "stats": {
+        "attack": 1.1,
+        "midfield": 1.2,
+        "defense": 1.2,
+        "goalkeeper": 1.1
+      },
+      "logo": "/all_logos/FCV Dender EH.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1385.0267334
+    },
+    {
+      "id": "ik_sirius_swe",
+      "name": "IK Sirius",
+      "league": "OTH",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/IK Sirius.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1383.37255859
+    },
+    {
+      "id": "avs_futebol_por",
+      "name": "AVS Futebol",
+      "league": "POR",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/Avs Futebol.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1382.98779297
+    },
+    {
+      "id": "goeztepe_tur",
+      "name": "Goeztepe",
+      "league": "TUR",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/Göztepe.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1380.79528809
+    },
+    {
+      "id": "estrela_amadora_por",
+      "name": "Estrela Amadora",
+      "league": "POR",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/CF Estrela Amadora.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1379.06469727
+    },
+    {
+      "id": "antalyaspor_tur",
+      "name": "Antalyaspor",
+      "league": "TUR",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/Antalyaspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1377.75317383
+    },
+    {
+      "id": "waalwijk_ned",
+      "name": "Waalwijk",
+      "league": "NED",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/RKC Waalwijk.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1377.52392578
+    },
+    {
+      "id": "farense_por",
+      "name": "Farense",
+      "league": "POR",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/SC Farense.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1376.7130127
+    },
+    {
+      "id": "radomiak_pol",
+      "name": "Radomiak",
+      "league": "OTH",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/Radomiak Radom.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1374.3770752
+    },
+    {
+      "id": "katowice_pol",
+      "name": "Katowice",
+      "league": "OTH",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/GKS Katowice.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1372.69628906
+    },
+    {
+      "id": "sivasspor_tur",
+      "name": "Sivasspor",
+      "league": "TUR",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/Sivasspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1372.33776855
+    },
+    {
+      "id": "levski_bul",
+      "name": "Levski",
+      "league": "OTH",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/Levski Sofia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1371.60778809
+    },
+    {
+      "id": "korona_pol",
+      "name": "Korona",
+      "league": "OTH",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/Korona Kielce.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1371.0513916
+    },
+    {
+      "id": "olexandriya_ukr",
+      "name": "Olexandriya",
+      "league": "OTH",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/FC Oleksandriya.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1369.63012695
+    },
+    {
+      "id": "breda_ned",
+      "name": "Breda",
+      "league": "NED",
+      "overallRating": 1.1,
+      "stats": {
+        "attack": 1.0,
+        "midfield": 1.1,
+        "defense": 1.1,
+        "goalkeeper": 1.0
+      },
+      "logo": "/all_logos/NAC Breda.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1368.89440918
+    },
+    {
+      "id": "red_star_fra",
+      "name": "Red Star",
+      "league": "FRA",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Red Star Belgrade.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1365.88098145
+    },
+    {
+      "id": "universitatea_cluj_rom",
+      "name": "Universitatea Cluj",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Universitatea Cluj.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1365.69799805
+    },
+    {
+      "id": "widzew_pol",
+      "name": "Widzew",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Widzew Lodz.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1363.88012695
+    },
+    {
+      "id": "bohemians_praha_cze",
+      "name": "Bohemians Praha",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Bohemians Prague 1905.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1363.78088379
+    },
+    {
+      "id": "hartberg_aut",
+      "name": "Hartberg",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/TSV Hartberg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1360.89660645
+    },
+    {
+      "id": "stromsgodset_nor",
+      "name": "Stromsgodset",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Strømsgodset IF.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1359.88354492
+    },
+    {
+      "id": "partizan_srb",
+      "name": "Partizan",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Partizan Belgrade.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1359.73046875
+    },
+    {
+      "id": "kortrijk_bel",
+      "name": "Kortrijk",
+      "league": "BEL",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/KV Kortrijk.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1358.89477539
+    },
+    {
+      "id": "cherno_more_bul",
+      "name": "Cherno More",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Cherno More Varna.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1358.859375
+    },
+    {
+      "id": "akron_togliatti_rus",
+      "name": "Akron Togliatti",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Akron Togliatti.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1358.19995117
+    },
+    {
+      "id": "kayseri_tur",
+      "name": "Kayseri",
+      "league": "TUR",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Kayserispor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1357.94348145
+    },
+    {
+      "id": "rizespor_tur",
+      "name": "Rizespor",
+      "league": "TUR",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Caykur Rizespor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1356.8248291
+    },
+    {
+      "id": "motor_lublin_pol",
+      "name": "Motor Lublin",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Motor Lublin.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1356.24621582
+    },
+    {
+      "id": "fakel_voronezh_rus",
+      "name": "Fakel Voronezh",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Fakel Voronezh.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1355.10852051
+    },
+    {
+      "id": "almere_ned",
+      "name": "Almere",
+      "league": "NED",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Almere City FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1354.39807129
+    },
+    {
+      "id": "bw_linz_aut",
+      "name": "BW Linz",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Blau-Weiss Linz.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1354.08703613
+    },
+    {
+      "id": "teplice_cze",
+      "name": "Teplice",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Teplice.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1354.0847168
+    },
+    {
+      "id": "lok_zagreb_cro",
+      "name": "Lok Zagreb",
+      "league": "OTH",
+      "overallRating": 1.0,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1.0,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/NK Lokomotiva Zagreb.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1353.89916992
+    },
+    {
+      "id": "osijek_cro",
+      "name": "Osijek",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/NK Osijek.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1350.48352051
+    },
+    {
+      "id": "orenburg_rus",
+      "name": "Orenburg",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Orenburg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1344.20019531
+    },
+    {
+      "id": "varnamo_swe",
+      "name": "Varnamo",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/IFK Värnamo.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1343.46374512
+    },
+    {
+      "id": "willem_ii_ned",
+      "name": "Willem II",
+      "league": "NED",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Willem II Tilburg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1343.23010254
+    },
+    {
+      "id": "st_mirren_sco",
+      "name": "St Mirren",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/St. Mirren FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1343.0748291
+    },
+    {
+      "id": "aberdeen_sco",
+      "name": "Aberdeen",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Aberdeen FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1342.99121094
+    },
+    {
+      "id": "lyngby_den",
+      "name": "Lyngby",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Lyngby BK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1342.89831543
+    },
+    {
+      "id": "fc_khimki_rus",
+      "name": "FC Khimki",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Khimki.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1339.14758301
+    },
+    {
+      "id": "sion_sui",
+      "name": "Sion",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Sion.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1337.97143555
+    },
+    {
+      "id": "puszcza_niepolomice_pol",
+      "name": "Puszcza Niepolomice",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Puszcza Niepolomice.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1337.54602051
+    },
+    {
+      "id": "bodrum_tur",
+      "name": "Bodrum",
+      "league": "TUR",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Bodrum FK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1337.5267334
+    },
+    {
+      "id": "slovacko_cze",
+      "name": "Slovacko",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/1.FC Slovacko.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1336.78735352
+    },
+    {
+      "id": "kfum_oslo_nor",
+      "name": "KFUM Oslo",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/KFUM-Kameratene Oslo.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1336.5925293
+    },
+    {
+      "id": "dinamo_bucuresti_rom",
+      "name": "Dinamo Bucuresti",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Dinamo 1948.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1335.98791504
+    },
+    {
+      "id": "slaven_belupo_cro",
+      "name": "Slaven Belupo",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Slaven Belupo Koprivnica.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1335.84606934
+    },
+    {
+      "id": "goeteborg_swe",
+      "name": "Goeteborg",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/IFK Göteborg.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1335.63232422
+    },
+    {
+      "id": "lubin_pol",
+      "name": "Lubin",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Zaglebie Lubin.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1335.47033691
+    },
+    {
+      "id": "varazdin_cro",
+      "name": "Varazdin",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/NK Varazdin.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1334.38586426
+    },
+    {
+      "id": "klagenfurt_aut",
+      "name": "Klagenfurt",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/SK Austria Klagenfurt.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1333.78503418
+    },
+    {
+      "id": "karvina_cze",
+      "name": "Karvina",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/MFK Karvina.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1333.29711914
+    },
+    {
+      "id": "gais_swe",
+      "name": "GAIS",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/GAIS.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1333.24060059
+    },
+    {
+      "id": "vejle_den",
+      "name": "Vejle",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Vejle Boldklub.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1333.17993164
+    },
+    {
+      "id": "hermannstadt_rom",
+      "name": "Hermannstadt",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Hermannstadt.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1332.40576172
+    },
+    {
+      "id": "nizhny_novgorod_rus",
+      "name": "Nizhny Novgorod",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Pari Nizhniy Novgorod.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1332.29931641
+    },
+    {
+      "id": "sepsi_rom",
+      "name": "Sepsi",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Sepsi OSK Sf. Gheorghe.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1331.49108887
+    },
+    {
+      "id": "norrkoeping_swe",
+      "name": "Norrkoeping",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/IFK Norrköping.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1330.94848633
+    },
+    {
+      "id": "atromitos_gre",
+      "name": "Atromitos",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Atromitos Athens.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1328.0177002
+    },
+    {
+      "id": "grasshoppers_sui",
+      "name": "Grasshoppers",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Grasshopper Club Zurich.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1327.8873291
+    },
+    {
+      "id": "aalborg_den",
+      "name": "Aalborg",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Aalborg BK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1327.65234375
+    },
+    {
+      "id": "ham-kam_nor",
+      "name": "Ham-Kam",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Hamarkameratene.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1326.83056641
+    },
+    {
+      "id": "boavista_por",
+      "name": "Boavista",
+      "league": "POR",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Boavista FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1326.52368164
+    },
+    {
+      "id": "sandefjord_nor",
+      "name": "Sandefjord",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Sandefjord Fotball.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1326.45483398
+    },
+    {
+      "id": "ofi_gre",
+      "name": "OFI",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/CSKA-Sofia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1324.34692383
+    },
+    {
+      "id": "haugesund_nor",
+      "name": "Haugesund",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Haugesund.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1323.75793457
+    },
+    {
+      "id": "beerschot_ac_bel",
+      "name": "Beerschot AC",
+      "league": "BEL",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Beerschot VA.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1321.05639648
+    },
+    {
+      "id": "kilmarnock_sco",
+      "name": "Kilmarnock",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Kilmarnock FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1320.0501709
+    },
+    {
+      "id": "dynamo_makhachkala_rus",
+      "name": "Dynamo Makhachkala",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Dinamo Makhachkala.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1319.75646973
+    },
+    {
+      "id": "istra_1961_cro",
+      "name": "Istra 1961",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/NK Istra 1961.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1319.56604004
+    },
+    {
+      "id": "yverdon_sport_sui",
+      "name": "Yverdon Sport",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Yverdon Sport FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1318.76208496
+    },
+    {
+      "id": "stal_mielec_pol",
+      "name": "Stal Mielec",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Stal Mielec.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1318.49865723
+    },
+    {
+      "id": "kryvbas_ukr",
+      "name": "Kryvbas",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Kryvbas Kryvyi Rig.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1316.94824219
+    },
+    {
+      "id": "polissya_zhytomyr_ukr",
+      "name": "Polissya Zhytomyr",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Polissya Zhytomyr.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1312.55871582
+    },
+    {
+      "id": "wisla_pol",
+      "name": "Wisla",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Slask Wroclaw.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1308.50512695
+    },
+    {
+      "id": "dundee_united_sco",
+      "name": "Dundee United",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Dundee United FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1304.32116699
+    },
+    {
+      "id": "lechia_pol",
+      "name": "Lechia",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Lechia Gdansk.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1303.99829102
+    },
+    {
+      "id": "mtk_hun",
+      "name": "MTK",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/MTK Budapest.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1303.96240234
+    },
+    {
+      "id": "gyoer_hun",
+      "name": "Gyoer",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/ETO FC Győr.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1300.84790039
+    },
+    {
+      "id": "kristiansund_nor",
+      "name": "Kristiansund",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Kristiansund BK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1300.83300781
+    },
+    {
+      "id": "brommapojkarna_swe",
+      "name": "Brommapojkarna",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/IF Brommapojkarna.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1300.27197266
+    },
+    {
+      "id": "videoton_hun",
+      "name": "Videoton",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Fehérvár FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1298.61364746
+    },
+    {
+      "id": "levadeiakos_gre",
+      "name": "Levadeiakos",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/APO Levadiakos.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1298.41186523
+    },
+    {
+      "id": "motherwell_sco",
+      "name": "Motherwell",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Motherwell FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1298.08874512
+    },
+    {
+      "id": "zorya_ukr",
+      "name": "Zorya",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Zorya Lugansk.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1294.58642578
+    },
+    {
+      "id": "diosgyori_hun",
+      "name": "Diosgyori",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Diósgyőri VTK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1294.05932617
+    },
+    {
+      "id": "panetolikos_gre",
+      "name": "Panetolikos",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Panetolikos GFS.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1288.93139648
+    },
+    {
+      "id": "botosani_rom",
+      "name": "Botosani",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Botosani.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1288.6282959
+    },
+    {
+      "id": "uta_arad_rom",
+      "name": "UTA Arad",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/UTA Arad.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1286.53991699
+    },
+    {
+      "id": "rukh_lviv_ukr",
+      "name": "Rukh Lviv",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Rukh Lviv.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1281.78210449
+    },
+    {
+      "id": "petrolul_ploiesti_rom",
+      "name": "Petrolul Ploiesti",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Petrolul Ploiesti.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1280.18029785
+    },
+    {
+      "id": "ross_county_sco",
+      "name": "Ross County",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Ross County FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1280.1307373
+    },
+    {
+      "id": "altach_aut",
+      "name": "Altach",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/SCR Altach.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1279.67993164
+    },
+    {
+      "id": "zalaegerszegi_hun",
+      "name": "Zalaegerszegi",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Zalaegerszegi TE FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1276.94567871
+    },
+    {
+      "id": "winterthur_sui",
+      "name": "Winterthur",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Winterthur.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1276.78222656
+    },
+    {
+      "id": "hatayspor_tur",
+      "name": "Hatayspor",
+      "league": "TUR",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Hatayspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1276.68994141
+    },
+    {
+      "id": "adana_demirspor_tur",
+      "name": "Adana Demirspor",
+      "league": "TUR",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Adana Demirspor.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1276.546875
+    },
+    {
+      "id": "pardubice_cze",
+      "name": "Pardubice",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Pardubice.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1274.06848145
+    },
+    {
+      "id": "arda_bul",
+      "name": "Arda",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Arda Kardzhali.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1273.14990234
+    },
+    {
+      "id": "halmstad_swe",
+      "name": "Halmstad",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Halmstads BK.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1271.94702148
+    },
+    {
+      "id": "dundee_sco",
+      "name": "Dundee",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Dundee FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1271.91345215
+    },
+    {
+      "id": "debrecen_hun",
+      "name": "Debrecen",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Debreceni VSC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1271.6998291
+    },
+    {
+      "id": "iasi_rom",
+      "name": "Iasi",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/ACSM Politehnica Iasi.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1262.26403809
+    },
+    {
+      "id": "panserraikos_gre",
+      "name": "Panserraikos",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Panserraikos.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1261.51879883
+    },
+    {
+      "id": "hnk_gorica_cro",
+      "name": "HNK Gorica",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/HNK Gorica.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1258.78613281
+    },
+    {
+      "id": "dukla_cze",
+      "name": "Dukla",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Dukla Prague.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1257.47668457
+    },
+    {
+      "id": "ujpest_hun",
+      "name": "Ujpest",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Újpest FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1253.57885742
+    },
+    {
+      "id": "backa_topola_srb",
+      "name": "Backa Topola",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK TSC Backa Topola.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1252.2512207
+    },
+    {
+      "id": "veres_ukr",
+      "name": "Veres",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/NK Veres Rivne.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1249.84118652
+    },
+    {
+      "id": "otelul_galati_rom",
+      "name": "Otelul Galati",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/SC Otelul Galati.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1248.3614502
+    },
+    {
+      "id": "kecskemeti_hun",
+      "name": "Kecskemeti",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Kecskeméti TE.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1246.7421875
+    },
+    {
+      "id": "cska_1948_sofia_bul",
+      "name": "CSKA 1948 Sofia",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/CSKA 1948.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1245.6932373
+    },
+    {
+      "id": "karpaty_ukr",
+      "name": "Karpaty",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Karpaty Lviv.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1241.01306152
+    },
+    {
+      "id": "st_johnstone_sco",
+      "name": "St Johnstone",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/St. Johnstone FC.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1236.86486816
+    },
+    {
+      "id": "lnz_ukr",
+      "name": "LNZ",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/LNZ Cherkasy.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1233.46130371
+    },
+    {
+      "id": "novi_sad_srb",
+      "name": "Novi Sad",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Vojvodina Novi Sad.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1231.64465332
+    },
+    {
+      "id": "kalithea_gre",
+      "name": "Kalithea",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Athens Kallithea.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1230.99255371
+    },
+    {
+      "id": "kolos_ukr",
+      "name": "Kolos",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Kolos Kovalivka.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1228.09741211
+    },
+    {
+      "id": "vorskla_ukr",
+      "name": "Vorskla",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Vorskla Poltava.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1225.86584473
+    },
+    {
+      "id": "slavia_sofia_bul",
+      "name": "Slavia Sofia",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Slavia Sofia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1223.25805664
+    },
+    {
+      "id": "cukaricki_srb",
+      "name": "Cukaricki",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Cukaricki.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1218.16162109
+    },
+    {
+      "id": "kragujevac_srb",
+      "name": "Kragujevac",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Radnicki 1923 Kragujevac.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1214.89453125
+    },
+    {
+      "id": "nyiregyhaza_hun",
+      "name": "Nyiregyhaza",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Nyíregyháza Spartacus.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1211.4822998
+    },
+    {
+      "id": "botev_plovdiv_bul",
+      "name": "Botev Plovdiv",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Botev Plovdiv.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1209.50598145
+    },
+    {
+      "id": "lamia_gre",
+      "name": "Lamia",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/PAS Lamia 1964.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1206.55541992
+    },
+    {
+      "id": "lok_plovdiv_bul",
+      "name": "Lok Plovdiv",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Lokomotiv Plovdiv.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1197.41101074
+    },
+    {
+      "id": "obolon_kyiv_ukr",
+      "name": "Obolon Kyiv",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Obolon Kyiv.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1196.48193359
+    },
+    {
+      "id": "sibenik_cro",
+      "name": "Sibenik",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/HNK Sibenik.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1193.97705078
+    },
+    {
+      "id": "livyi_bereh_ukr",
+      "name": "Livyi Bereh",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Livyi Bereg Kyiv.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1193.40795898
+    },
+    {
+      "id": "unirea_slobozia_rom",
+      "name": "Unirea Slobozia",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/AFC Unirea 04 Slobozia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1190.73303223
+    },
+    {
+      "id": "gloria_buzau_rom",
+      "name": "Gloria Buzau",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FC Buzău.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1183.9296875
+    },
+    {
+      "id": "inhulets_ukr",
+      "name": "Inhulets",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Ingulets Petrove.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1176.5345459
+    },
+    {
+      "id": "ceske_budejovice_cze",
+      "name": "Ceske Budejovice",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/SK Dynamo Ceske Budejovice.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1173.04614258
+    },
+    {
+      "id": "beroe_stara_zagora_bul",
+      "name": "Beroe Stara Zagora",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Beroe Stara Zagora.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1166.38354492
+    },
+    {
+      "id": "novi_pazar_srb",
+      "name": "Novi Pazar",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Novi Pazar.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1160.43261719
+    },
+    {
+      "id": "levski_krumovgrad_bul",
+      "name": "Levski Krumovgrad",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Krumovgrad.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1155.32775879
+    },
+    {
+      "id": "chernomorets_ukr",
+      "name": "Chernomorets",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Chornomorets Odesa.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1155.29394531
+    },
+    {
+      "id": "mladost_lucani_srb",
+      "name": "Mladost Lucani",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Mladost Lucani.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1154.20959473
+    },
+    {
+      "id": "spartak_varna_bul",
+      "name": "Spartak Varna",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Spartak Varna.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1145.4732666
+    },
+    {
+      "id": "ofk_srb",
+      "name": "OFK",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/OFK Beograd.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1129.12548828
+    },
+    {
+      "id": "lok_sofia_bul",
+      "name": "Lok Sofia",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Lokomotiv Sofia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1126.81213379
+    },
+    {
+      "id": "zeleznicar_pancevo_srb",
+      "name": "Zeleznicar Pancevo",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Zeleznicar Pancevo.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1117.11853027
+    },
+    {
+      "id": "imt_srb",
+      "name": "IMT",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Bodø Glimt.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1114.2421875
+    },
+    {
+      "id": "krusevac_srb",
+      "name": "Krusevac",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Napredak Krusevac.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1113.45117188
+    },
+    {
+      "id": "septemvri_sofia_bul",
+      "name": "Septemvri Sofia",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Septemvri Sofia.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1113.25085449
+    },
+    {
+      "id": "nis_srb",
+      "name": "Nis",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Radnicki Nis.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1075.79052734
+    },
+    {
+      "id": "tekstilac_odzaci_srb",
+      "name": "Tekstilac Odzaci",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Tekstilac Odzaci.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1045.27282715
+    },
+    {
+      "id": "botev_vratsa_bul",
+      "name": "Botev Vratsa",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Botev Vratsa.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1044.30895996
+    },
+    {
+      "id": "hebar_bul",
+      "name": "Hebar",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/Hebar Pazardzhik.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1034.66552734
+    },
+    {
+      "id": "jedinstvo_ub_srb",
+      "name": "Jedinstvo Ub",
+      "league": "OTH",
+      "overallRating": 1,
+      "stats": {
+        "attack": 0.9,
+        "midfield": 1,
+        "defense": 1.0,
+        "goalkeeper": 0.9
+      },
+      "logo": "/all_logos/FK Jedinstvo Ub.png",
+      "lastUpdated": "2025-04-06",
+      "originalElo": 1011.7635498
+    }
+  ]
+}
